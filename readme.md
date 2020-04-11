@@ -1,9 +1,9 @@
 #SOFT130002_Project1 梁菁菁 19302010061
 ##GitHub 地址
-###https://github.com/Liang-jing-jing/SOFT130002_Project1
+###https://github.com/Liang-jing-jing/PJ1
 
 ##GitHub Pages地址
-###https://liang-jing-jing.github.io/SOFT130002_Project1/
+###https://liang-jing-jing.github.io/PJ1/
 
 
 ##项目完成情况
